@@ -1,73 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="505" viewBox="0 0 860 505" fill="none">
 <style>text{font-family:"Consolas","SFMono-Regular","Courier New",monospace;white-space:pre;}</style>
-<text x="16" y="18" fill="#24292f" font-size="11px">
-<tspan x="16">                          `</tspan>
-<tspan x="16" dy="11.6">             `````   ^  ^  ^&quot;,&quot;^^^^`</tspan>
-<tspan x="16" dy="11.6">   ``^^^^^^^^^^,,&quot;              ` &quot;:,&quot;,`</tspan>
-<tspan x="16" dy="11.6">`^^^^&quot;&quot;&quot;&quot;&quot;&quot;,;&quot;    `^   ^  `      ^`^^&quot;^l:&quot;`</tspan>
-<tspan x="16" dy="11.6">^^&quot;&quot;&quot;&quot;&quot;&quot;,,:: ^       `^       ^        ,I;;:^</tspan>
-<tspan x="16" dy="11.6">&quot;&quot;,,,,,,::;  ,               `              ;!,`</tspan>
-<tspan x="16" dy="11.6">,,,,,,,,:;;^                                 ;!l</tspan>
-<tspan x="16" dy="11.6">,:::::::::;`                                   ^</tspan>
-<tspan x="16" dy="11.6">::::;;:;;;;      ;i~-?_&lt;I^</tspan>
-<tspan x="16" dy="11.6">;;;;;;;;;I:    -tncYL00QJXx/1?+iI:^              ^^`</tspan>
-<tspan x="16" dy="11.6">;;;I;;;III^   &gt;rYCLQ0$&amp;$$&amp;$gOQQCJcj[l           &quot;&quot;^`</tspan>
-<tspan x="16" dy="11.6">IIIIIIIIII   &quot;\zUCLLQOOQLQO0OCJCCUv/+:`        ;:&quot;^^</tspan>
-<tspan x="16" dy="11.6">IIIIlllllI ^,[zvuvXL$B#M8$g0QCCUzuf1I`         :,&quot;^^</tspan>
-<tspan x="16" dy="11.6">llllllllll^,_cr\t/j\1}\X&amp;BW#WMW8QYn/?^        &quot;&quot;&quot;&quot;&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">l!!lllll&gt;i^,(czYzzXzf[-)uQ8gQJr{-?-?~l,&quot;&quot;    ^,,&quot;&quot;&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">!!!!!!l[jz{!fUQc{]{+~)[\z0&amp;c1[--{\t/}&lt;:i~^  ^,,,,&quot;&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">!!!!!l&gt;cOB0fzQgggOLJXzUYUOQ\&lt;+[/1ii!l&lt;~_-^  ,,,,,,&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">!!!!!l+J&amp;$ujJg8MWMBBB8QCOgU1_)ncn\1-+]{[_`&quot;&lt;~::,,,,,</tspan>
-<tspan x="16" dy="11.6">!!!!!!&gt;X0OOtY0&amp;B###%#80$W#gv{[vLCUXcxf|1+i}]?l,,,,,,</tspan>
-<tspan x="16" dy="11.6">!!!!!!ltQQX{vQ08W#%#MCvxCLu}1}tOgQCYu/)1~&gt;\\)l,:,,,,</tspan>
-<tspan x="16" dy="11.6">!!!!!!!&lt;U8O{xYJ0&amp;8gCX|}{[1_Ii]\YgOJv\}]+_1{(-:,:,,,,</tspan>
-<tspan x="16" dy="11.6">!!!!!!!!&gt;}]_rcYLU{&gt;&lt;?+&gt;~&lt;-l^^;&gt;[xcu\?+&lt;;_1[]I,,,,,,,</tspan>
-<tspan x="16" dy="11.6">!!!!!!!!!lI+rnXUx&lt;{|(|ff\{?~!;;`&quot;}(?&lt;&gt;l!1|{!,,,,,,,&quot;</tspan>
-<tspan x="16" dy="11.6">!!!!!!!!!!!!/xvuuvJCYnxf/t{++[({+?-~&gt;i,;ii;,,:,,,,,,</tspan>
-<tspan x="16" dy="11.6">lllll!!llllI](txt/cCLUt_;;-)||([_+&lt;&gt;iI::,,::,,,,,,,,</tspan>
-<tspan x="16" dy="11.6">lllllllllllI/v(-&gt;&lt;)xXXUzvczcf1_ll!l;;,:::::::,,,,,,,</tspan>
-<tspan x="16" dy="11.6">llllllllllI!vCUr?, ,i&lt;+](\-~&gt;I&quot; ,;Ii:::::::::,,,,,,,</tspan>
-<tspan x="16" dy="11.6">IIIllllllI&lt;xXQOQYr}l^         `,l&gt;+&lt;,:::::::::,,,,,&quot;</tspan>
-<tspan x="16" dy="11.6">IIIIllllIiLczCO0QJXcut{_&gt;l::Ii&gt;~__-[I::::::::,,,,,&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">IIIIIll;,xWxJCOg0JUJJOQXzf[-_-][]--C&gt;!;,:::,,,,,,&quot;&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">Il!!l;&quot;^IB@xcLQ0gOJYYYg$z{]?-{(1}-}%|,+&gt;;,,,,,,,&quot;&quot;&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">&lt;&lt;i;&quot;   +@@MtcQOOOQJUXvr}}[])tt|}_L#z !_+&lt;!;:&quot;^&quot;&quot;&quot;^^</tspan>
-<tspan x="16" dy="11.6">lI;&quot;    +@@@MfjJQQLCLJcrj/)|rrt1[QB0u &quot;!&gt;&lt;~~&lt;&lt;&gt;I,^``</tspan>
-<tspan x="16" dy="11.6">::&quot;`    &lt;%@@@%c|uJLUXXzvx//xnt(f8#LL{  :!!i&gt;lIi+-_&lt;l</tspan>
-<tspan x="16" dy="11.6">;:^     &gt;#@@@@@Q\\vvunxrfrvu/\U%@$QL?   :!!lil,,;!+?</tspan>
-<tspan x="16" dy="11.6">`^`     lM@@@0L$WOYt|/fjxzYzYLCJ$88$?    &quot;l!II,,,,:;</tspan>
-<tspan x="16" dy="11.6">       `,$@8Cuug@@%BvfuXUOgQOg0zr0#$&lt;      ^` &quot;;:,&quot;&quot;</tspan>
-<tspan x="16" dy="11.6">`       `Y$Y0#M#@@@@%uuzY8W#%WOXY$%0I        ^,::,&quot;^</tspan>
+<text x="14" y="13" fill="#24292f" font-size="9px">
+<tspan x="14"></tspan>
+<tspan x="14" dy="9.0">                            I?[1{|c&amp;@@BQr(\1~&lt;,</tspan>
+<tspan x="14" dy="9.0">                          v@@@@@@@@@@@@@@@@@@@@@@C~</tspan>
+<tspan x="14" dy="9.0">                   &quot;ngQMB@@@@@@@@#@@@%@@@@#%%@@@@@@@BYi</tspan>
+<tspan x="14" dy="9.0">                 ^{@@@@@@@W@@%%@WW@@@%@@@@@@@@%@#%@B@@@@ul</tspan>
+<tspan x="14" dy="9.0">              i&quot;W@@@@@@#%@M%@@@B#@%%W#@@@%M@@MM@%%@@#@OB@@@X&lt;</tspan>
+<tspan x="14" dy="9.0">              Y@@@@B@@@@@@@@@#B%@##@@@@@@#&amp;@%@%#@#@@@@@Q08@@@@(</tspan>
+<tspan x="14" dy="9.0">            [^@@@@W%@@@@@@@%M#@@@@@@@%@#M#@@@@@%@@@@@@%@@@@%@@@@@+</tspan>
+<tspan x="14" dy="9.0">            |X@@@%M@@@@@@@WW@%@@@@@%WW@@@@@W%@@@@@@@@@#@@@@@@%OJ@@-</tspan>
+<tspan x="14" dy="9.0">             ?@@@@@@@@@@@##@%@@@@@@@@@@@@@##@#%@@@@@@@@W@@%@@@@Mg0@Y</tspan>
+<tspan x="14" dy="9.0">              @@@@@@@@@@@@@@@@@@@@@@@@@@%#@@@M%@@@@@@@@%##@@@@@@@@@@</tspan>
+<tspan x="14" dy="9.0">              n@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@&lt;</tspan>
+<tspan x="14" dy="9.0">              u@@@@@@@8&amp;cj/{_-~])uz&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@i</tspan>
+<tspan x="14" dy="9.0">              J@@@@@@t-[}[?[_&gt;llll,,i+]{ruUgW%@@@@@@@%@@@%@@@@@@@@@@|</tspan>
+<tspan x="14" dy="9.0">              @@@@@@U1(][[]-~&gt;!!!~&gt;!iI&gt;+!;:I!!+}tLM@@@@@##@@@@@#@@@@</tspan>
+<tspan x="14" dy="9.0">              @@@@@@\{)[--]-{[]}[[?_-_+_?[]_&lt;&lt;+-|/U@@@%%@@@@@@@@@@@&quot;</tspan>
+<tspan x="14" dy="9.0">              @@@@@Xi(|?})(|)1[[1)\|{]?[1(/\|\(tfXBB##@@@@@@@@@@@@x</tspan>
+<tspan x="14" dy="9.0">              @@@@0;?1{{[&gt;:     &quot;l&gt;+??[1\((/fjxuzY@@@@@@@@@@@@@@@O</tspan>
+<tspan x="14" dy="9.0">              @@@$`[Y$B@@@@#$L(i`  ,,::,!;^;+]|fXJ0@@@@WW@@@@@@@J</tspan>
+<tspan x="14" dy="9.0">              @@@}+rY1l ` `-j&amp;@@@//[!,&quot;,^   l!I+?-{YM@@@@@@@@@@$</tspan>
+<tspan x="14" dy="9.0">            ^ j@@{(f&gt;-t/|\&gt;~1rYrvzr~;&lt;)(]x@@@@@@@@@@L%@MB@@@@@@</tspan>
+<tspan x="14" dy="9.0">          }@U-[@@~\~-c@@#Y@@@/W@Lj+! &lt;xO0JOQx[I;l&gt;(J#@&amp;OJ@@@@W</tspan>
+<tspan x="14" dy="9.0">          &amp;z-I,{B+}&gt;~--[(|(/cYt{tj(_l?@@@%$u\vzQCzJCUM8LY@@@C</tspan>
+<tspan x="14" dy="9.0">         ~Ji` +/t?]_~&gt;l&quot;,;&gt;&gt;&gt;_+&gt;?{}&gt;&gt;)#%gY)\1g@%#@@@#8gcU@@M</tspan>
+<tspan x="14" dy="9.0">         ]gI,{$Bx_+ilIli&gt;&lt;i&lt;&lt;;l|t{-&gt;]J@%c/()ttncQ0Q$xn0ng@@j&gt;1</tspan>
+<tspan x="14" dy="9.0">         ~c`\: YX+&lt;~&lt;&gt;l:l!I:&#x27;;1|l&quot;:,~]f@@r]{[[{}})tjrcCxW%CB@@v</tspan>
+<tspan x="14" dy="9.0">         `$?r-&quot;$U]&lt;?&lt;i;:;,&quot;;;?;:1&gt;   +{{&amp;&amp;i,&lt;})}})(tuXYfB@t-L@f</tspan>
+<tspan x="14" dy="9.0">          zx&gt;~}@Q1+[+i&gt;llI&gt;l _&amp;(t|]xj#%vt@Y!:&lt;+?](\ncJcX@@n(u@)</tspan>
+<tspan x="14" dy="9.0">          ,n-&gt; 8B})|{~+!^  `&#x27;1f{\(XxcC&amp;&amp;CLz);~+]1\nCQQL@uj&amp;fY@</tspan>
+<tspan x="14" dy="9.0">           :1|&lt;c@/1)(--I|Y@@@@@@@@@v#@@@Or/t&gt;![{\vg&amp;$0@%(jWY@?</tspan>
+<tspan x="14" dy="9.0">                @jf{(_:B@@@C(nfzt{/zO%g8@@@@$/f/rQB8B8@@0cO@J</tspan>
+<tspan x="14" dy="9.0">                @uu{1{lW@v\u#OzxXL&amp;MLLO8WB#@@@XxQB8%&amp;@@gOB&amp;r</tspan>
+<tspan x="14" dy="9.0">                $C|t|j|1[,Ii-r{ &#x27;_^ +c@B0JfjQ$YC8B&amp;#@u |t/;</tspan>
+<tspan x="14" dy="9.0">                `@X()jrnx1?1}1C@@@@@@@%Cnj\rJuQ8$0M@%</tspan>
+<tspan x="14" dy="9.0">                 Q@&amp;x?)0X{+&gt;~+-(Q@@@0ftuvzz0@WB88M@@</tspan>
+<tspan x="14" dy="9.0">                 C+J@@&amp;@$n)~;]:`ll&lt;;::&gt;(vUg@%MMB%@@</tspan>
+<tspan x="14" dy="9.0">                &lt;g-&lt;{L#@@@@@JJJXz++,YYuJ0&amp;@@%#@@@#</tspan>
+<tspan x="14" dy="9.0">                nc+[_+1j#@@@@@@@@#%&amp;@@@@@@@@@@@&amp;@1</tspan>
+<tspan x="14" dy="9.0">              &#x27;`Lt~~~-]}{(Q@@@@@@@@@@@@@@@@@#B&amp;M@&quot;</tspan>
+<tspan x="14" dy="9.0">             ^:\W}}{+++[)[[11xO8W@@@@@@@BMMB$00%@</tspan>
+<tspan x="14" dy="9.0">             ) Of1[[+&lt;?[1|)-~!~\rvucO$$$Og0CJJL@8&#x27;</tspan>
+<tspan x="14" dy="9.0">            ~+ B?-{]-~&lt;[/)}{)[&#x27;&gt;1i:1YLQg0JJCCO&amp;@$ &gt;</tspan>
+<tspan x="14" dy="9.0">            (I |@;]1?_&lt;&lt;-(/((r1   f@&amp;CO80zuXJCQ@- (</tspan>
+<tspan x="14" dy="9.0">           &#x27;\&quot;` &amp;@,&lt;-?]_+-)(1\n_&gt;&amp;@$UOBQxfrXzn@&amp; ;)`</tspan>
+<tspan x="14" dy="9.0">           ;( ;  8@+l_?]?][}}{tUWBYvL$Lrtjnnv@@ i]);</tspan>
+<tspan x="14" dy="9.0">           lt ^:  J@t&gt;~-[]{?&lt;+?t/(\nYJj\/jrX@&amp; &#x27;clv;</tspan>
+<tspan x="14" dy="9.0">           !Y `,`  }@#1+__}\|[-[]}fYQc\||f0@x  f{+B</tspan>
+<tspan x="14" dy="9.0">           :O ``^    B@X]_}1/nxuvXLYf{?tO@&amp;:  ]f&gt;n@</tspan>
+<tspan x="14" dy="9.0">           `U &#x27;&#x27;&quot;     (@@ntt/\t\\tx/{)z@%{&#x27;  :|(`\@</tspan>
+<tspan x="14" dy="9.0">            c     &lt;t\|  ]x8#UYzzczx1|xr[I_uz1 ~- (B</tspan>
+<tspan x="14" dy="9.0">            v    1@@J!     c@Uuxt|1}i]{)({+{0J ; vz</tspan>
+<tspan x="14" dy="9.0">            r  |@x&lt;\r?I:&gt;-  &gt;g|?~-|:_\}+; ;xX&amp;(  O(</tspan>
+<tspan x="14" dy="9.0">            [)tn1   ``  `&#x27;&quot;  JLtfxx`    ^&lt;r/}+I^ L!</tspan>
 </text>
-<text x="452" y="24" font-size="13.5px" font-weight="400">
-<tspan x="452"><tspan fill="#cf222e" font-weight="700">goldmauler@github</tspan><tspan fill="#d0d7de"> ────────────────────────</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">OS:                  </tspan><tspan fill="#0550ae">Windows 11, Linux, Android</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Host:                </tspan><tspan fill="#0550ae">Amrita Vishwa Vidyapeetham</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Kernel:              </tspan><tspan fill="#0550ae">B.Tech CSE &#x27;27 | SDE Intern @ Innoboon</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Uptime:              </tspan><tspan fill="#0550ae">20 years, 7 months</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">IDE:                 </tspan><tspan fill="#0550ae">VS Code, IntelliJ IDEA</tspan></tspan>
-<tspan x="452" dy="15.4"> </tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Languages.Prog:      </tspan><tspan fill="#0550ae">C, C++, Java, Python, JS, TypeScript</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Languages.Data:      </tspan><tspan fill="#0550ae">SQL, HTML, CSS, JSON, YAML</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Languages.Real:      </tspan><tspan fill="#0550ae">English, Tamil, Hindi</tspan></tspan>
-<tspan x="452" dy="15.4"> </tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">ML.Frameworks:       </tspan><tspan fill="#0550ae">TensorFlow, PyTorch, TFLite Micro</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">ML.GenAI:            </tspan><tspan fill="#0550ae">LangChain, LangGraph, RAG, Bedrock</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Systems:             </tspan><tspan fill="#0550ae">Distributed, Docker, AWS, Redis, WS</tspan></tspan>
-<tspan x="452" dy="15.4"> </tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Hobbies.Software:    </tspan><tspan fill="#0550ae">Multi-Agent AI, Edge ML, RAG</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Hobbies.Hardware:    </tspan><tspan fill="#0550ae">Arduino / TinyML, Signal Proc</tspan></tspan>
-<tspan x="452" dy="15.4"> </tspan>
-<tspan x="452" dy="15.4"><tspan fill="#cf222e" font-weight="700">Contact </tspan><tspan fill="#d0d7de">───────────────────────</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Email:               </tspan><tspan fill="#0550ae">vimal007.x@gmail.com</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">LinkedIn:            </tspan><tspan fill="#0550ae">vimal-harihar-s-k</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">GitHub:              </tspan><tspan fill="#0550ae">Goldmauler</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Portfolio:           </tspan><tspan fill="#0550ae">portfolio68-one.vercel.app</tspan></tspan>
-<tspan x="452" dy="15.4"> </tspan>
-<tspan x="452" dy="15.4"><tspan fill="#cf222e" font-weight="700">GitHub Stats </tspan><tspan fill="#d0d7de">──────────────────</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Repos:               </tspan><tspan fill="#0550ae">20   |  Stars: 1</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Followers:           </tspan><tspan fill="#0550ae">19   |  Following: 13</tspan></tspan>
-<tspan x="452" dy="15.4"><tspan fill="#9a6700">Member since:        </tspan><tspan fill="#0550ae">January 2025</tspan></tspan>
+<text x="430" y="22" font-size="12.5px" font-weight="400">
+<tspan x="430"><tspan fill="#cf222e" font-weight="700">goldmauler@github</tspan><tspan fill="#d0d7de"> ────────────────────────</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">OS:                  </tspan><tspan fill="#0550ae">Windows 11, Linux, Android</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Host:                </tspan><tspan fill="#0550ae">Amrita Vishwa Vidyapeetham</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Kernel:              </tspan><tspan fill="#0550ae">B.Tech CSE &#x27;27 | SDE Intern @ Innoboon</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Uptime:              </tspan><tspan fill="#0550ae">20 years, 7 months</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">IDE:                 </tspan><tspan fill="#0550ae">VS Code, IntelliJ IDEA</tspan></tspan>
+<tspan x="430" dy="14.4"> </tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Languages.Prog:      </tspan><tspan fill="#0550ae">C, C++, Java, Python, JS, TypeScript</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Languages.Data:      </tspan><tspan fill="#0550ae">SQL, HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Languages.Real:      </tspan><tspan fill="#0550ae">English, Tamil, Hindi</tspan></tspan>
+<tspan x="430" dy="14.4"> </tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">ML.Frameworks:       </tspan><tspan fill="#0550ae">TensorFlow, PyTorch, TFLite Micro</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">ML.GenAI:            </tspan><tspan fill="#0550ae">LangChain, LangGraph, RAG, Bedrock</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Systems:             </tspan><tspan fill="#0550ae">Distributed, Docker, AWS, Redis, WS</tspan></tspan>
+<tspan x="430" dy="14.4"> </tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Hobbies.Software:    </tspan><tspan fill="#0550ae">Multi-Agent AI, Edge ML, RAG</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Hobbies.Hardware:    </tspan><tspan fill="#0550ae">Arduino / TinyML, Signal Proc</tspan></tspan>
+<tspan x="430" dy="14.4"> </tspan>
+<tspan x="430" dy="14.4"><tspan fill="#cf222e" font-weight="700">Contact </tspan><tspan fill="#d0d7de">───────────────────────</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Email:               </tspan><tspan fill="#0550ae">vimal007.x@gmail.com</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">LinkedIn:            </tspan><tspan fill="#0550ae">vimal-harihar-s-k</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">GitHub:              </tspan><tspan fill="#0550ae">Goldmauler</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Portfolio:           </tspan><tspan fill="#0550ae">portfolio68-one.vercel.app</tspan></tspan>
+<tspan x="430" dy="14.4"> </tspan>
+<tspan x="430" dy="14.4"><tspan fill="#cf222e" font-weight="700">GitHub Stats </tspan><tspan fill="#d0d7de">──────────────────</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Repos:               </tspan><tspan fill="#0550ae">20   |  Stars: 1</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Followers:           </tspan><tspan fill="#0550ae">19   |  Following: 13</tspan></tspan>
+<tspan x="430" dy="14.4"><tspan fill="#9a6700">Member since:        </tspan><tspan fill="#0550ae">January 2025</tspan></tspan>
 </text>
 </svg>
